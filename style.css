@@ -42,8 +42,11 @@ body {
 }
 
 .navHeader {
+    padding: 6px;
     font-size: 48px;
     font-weight: 900;
+    box-shadow: -2px -2px var(--secondary-color), 2px 2px #a52a0f;
+    background-color: #12865c;
 }
 
 .navItem {
